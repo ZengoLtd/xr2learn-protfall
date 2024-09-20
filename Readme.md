@@ -1,3 +1,4 @@
+Assets.zip downloadable from: https://drive.zengo.eu/s/LDHT2PgcZ4DcEHF
 - extract assets.zip into the project
 - open the project and press ignore for the safemode
 - Import VR Interaction Framework.unitypackage
