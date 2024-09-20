@@ -1,0 +1,449 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Protfall Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Protfall
+  m_TableCollectionNameGuidString: dd3dd6715135ac341904aecbf872027e
+  m_Entries:
+  - m_Id: 3130814074880
+    m_Key: 2-point_body_harness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3129505452032
+    m_Key: 2-point_body_harness_with_work_belt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2654685073408
+    m_Key: You_can_see_the_list_of_items_stowed_in_the_diagram_on_the_wall.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2595943845888
+    m_Key: Select_the_equipment_you_need_from_the_shelves_and_tables._On_the_diagram_on_the_wall,_you_can_see_a_list_of_the_items_you_have_stored.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2996852199424
+    m_Key: Approach_to_table
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2873715822592
+    m_Key: Access_to_the_warehouse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2943110582272
+    m_Key: Access_to_the_lift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2752378802176
+    m_Key: Safety_footwear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3040699453440
+    m_Key: Slide_ladder_access
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2517355171840
+    m_Key: Previous
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2943110582272
+    m_Key: Access_to_the_lift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2751716102144
+    m_Key: Energy_absorbing_rope
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3131506135040
+    m_Key: Energy_absorbing_band
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2446811172864
+    m_Key: Ladder_with_backrest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2998118879232
+    m_Key: Access_to_a_back-up_ladder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2593829916672
+    m_Key: To_change_position,_push_the_left_controller_arm_forward,_point_at_a_teleport_and_release.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2594555531264
+    m_Key: Interaction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2996252413952
+    m_Key: Inverter_approach
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2871144714240
+    m_Key: Industrial_safety_helmet_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2872398811136
+    m_Key: Rope
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3130163957760
+    m_Key: Rope_approach
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2516684083200
+    m_Key: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3244949475328
+    m_Key: You_have_made_a_critical_mistake!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2750449422336
+    m_Key: Fall_detected!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108276977664
+    m_Key: ladder_access
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2941793570816
+    m_Key: Accessing_the_ladder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 986346131456
+    m_Key: Mechanical_safety_goggles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2749803499520
+    m_Key: Completing_a_module
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3193808326656
+    m_Key: Module_completion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3080289488896
+    m_Key: Work_position_adjustment_rope
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2655419076608
+    m_Key: You_are_not_using_the_protective_equipment_correctly!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2443606724608
+    m_Key: Scissor_lift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2940539473920
+    m_Key: Leaving_the_warehouse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3041391513600
+    m_Key: Closet_access
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3329347260416
+    m_Key: Dangers_due_to_level_difference
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2654043344896
+    m_Key: To_stow_an_item,_hold_the_controller_over_the_icon_next_to_the_item_and_press_the_side_button.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2593196576768
+    m_Key: Teleport
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3193195958272
+    m_Key: Roof
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2873099259904
+    m_Key: Yard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3194458443776
+    m_Key: Protective_gloves
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3343930855424
+    m_Key: End
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3315313119232
+    m_Key: Final_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3080918634496
+    m_Key: Y_Energy_absorbing_rope
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2450070147072
+    m_Key: Anti-fall_ladder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2997447790592
+    m_Key: Access_to_the_fall_arrest_ladder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5717810450432
+    m_Key: Finish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 416257225494528
+    m_Key: You have completed the module.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 416582300831744
+    m_Key: "Welcome! \nThe inverter of the solar panels on the roof of the warehouse
+      has failed. Your task is to de-energise the equipment using the fire main switch."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 416867635138560
+    m_Key: Access to the roof is possible using a back ladder, a ladder with a fall
+      prevention device or a scissor lift installed on the side of the building.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 416975944650752
+    m_Key: Work safety equipment is required for safe roof access and access. All
+      tools are available in the storage room next to the building.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 417102109315072
+    m_Key: After troubleshooting, go to the end of module point behind the starting
+      point.Have a successful work!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 417214587965440
+    m_Key: 'Teleportations:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 417446621057024
+    m_Key: 'Time:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 417560236363776
+    m_Key: Mistake!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54110012700995584
+    m_Key: Y_Energy_absorbing_band
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54113491884552192
+    m_Key: Industrial_safety_helmet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54133388568014848
+    m_Key: Scissor_lift_control
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54133790982123520
+    m_Key: Exit_from_the_scissor_lift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54134622687440896
+    m_Key: Repair_inverter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54138001123815424
+    m_Key: Inventory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60145158231273472
+    m_Key: task_ascent_descent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60145158281605120
+    m_Key: task_protection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60145158281605121
+    m_Key: task_inverteroff
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60145158281605122
+    m_Key: task_hoist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60145158281605123
+    m_Key: task_laddercart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60145158281605124
+    m_Key: task_equipment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60168898886205440
+    m_Key: your_stress_levels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60168917232091136
+    m_Key: protfall_task_summary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155942699008
+    m_Key: skip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155993030656
+    m_Key: start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155993030657
+    m_Key: welcome_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155993030658
+    m_Key: welcome_tutorial_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155993030659
+    m_Key: continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224960
+    m_Key: select_how_to_use
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224961
+    m_Key: connect_stress_device
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224962
+    m_Key: error_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224963
+    m_Key: success_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224964
+    m_Key: enter_ip_and_connect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224965
+    m_Key: no_device_found
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224966
+    m_Key: device_found
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224967
+    m_Key: guided
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224968
+    m_Key: noguided
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224969
+    m_Key: stress_detect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224970
+    m_Key: no_stress_detect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224971
+    m_Key: reassuring_message_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224972
+    m_Key: reassuring_message_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224973
+    m_Key: reassuring_message_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224974
+    m_Key: reassuring_message_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224975
+    m_Key: reassuring_message_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224976
+    m_Key: reassuring_message_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224977
+    m_Key: reassuring_message_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224978
+    m_Key: reassuring_message_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224979
+    m_Key: reassuring_message_9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224980
+    m_Key: reassuring_message_10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224981
+    m_Key: reassuring_message_11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224982
+    m_Key: reassuring_message_12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61472956746919936
+    m_Key: connect_device
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61514940098375680
+    m_Key: guide_start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61514961346719744
+    m_Key: guide_locker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61514977230548992
+    m_Key: guide_roof
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61515437144371200
+    m_Key: guide_inverter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61516360998547456
+    m_Key: guide_hoist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61516937841176576
+    m_Key: guide_ladderback
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61516969231347712
+    m_Key: guide_laddercart
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8060452259587686424
+  references:
+    version: 2
+    RefIds:
+    - rid: 8060452259587686424
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1711815035872

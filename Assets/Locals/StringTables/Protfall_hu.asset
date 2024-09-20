@@ -1,0 +1,465 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Protfall_hu
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: hu
+  m_SharedData: {fileID: 11400000, guid: dd3dd6715135ac341904aecbf872027e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 108276977664
+    m_Localized: "L\xE9tra megk\xF6zel\xEDt\xE9se"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 986346131456
+    m_Localized: "Mechanikai v\xE9d\u0151szem\xFCveg"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2443606724608
+    m_Localized: "Oll\xF3s emel\u0151"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2446811172864
+    m_Localized: "H\xE1tt\xE1maszos l\xE9tra"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2450070147072
+    m_Localized: "Zuhan\xE1sg\xE1tl\xF3 l\xE9tra"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2516684083200
+    m_Localized: "K\xF6vetkez\u0151"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2517355171840
+    m_Localized: "El\u0151z\u0151"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2593196576768
+    m_Localized: Teleport
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2593829916672
+    m_Localized: "Helyv\xE1ltoztat\xE1shoz tolja el\u0151re a bal kontroller karj\xE1t,
+      mutasson r\xE1 egy teleportra \xE9s engedje fel."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2594555531264
+    m_Localized: "Interakci\xF3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2595943845888
+    m_Localized: "A polcokr\xF3l \xE9s asztalokr\xF3l v\xE1lassza ki a feladathoz
+      sz\xFCks\xE9ges felszerel\xE9seket. A falon l\xE9v\u0151 \xE1br\xE1n megtekintheti
+      az elrakott t\xE1rgyak list\xE1j\xE1t."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2654043344896
+    m_Localized: "T\xE1rgy elrak\xE1shoz tartsa a kontrollert a t\xE1rgy mellett
+      l\xE9v\u0151 ikonra, majd nyomja meg az oldals\xF3 gombot."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2654685073408
+    m_Localized: "A falon l\xE9v\u0151 \xE1br\xE1n megtekintheti az elrakott t\xE1rgyak
+      list\xE1j\xE1t."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2655419076608
+    m_Localized: "Nem megfelel\u0151en haszn\xE1lod a v\xE9d\u0151felszerel\xE9st!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2749803499520
+    m_Localized: "Modul befejez\xE9se"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2750449422336
+    m_Localized: "Lees\xE9s detekt\xE1lva!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2751716102144
+    m_Localized: "Energiaelnyel\u0151s k\xF6t\xE9l"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2752378802176
+    m_Localized: "Biztons\xE1gi l\xE1bbeli"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2871144714240
+    m_Localized: "Ipari v\xE9d\u0151sisak"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2872398811136
+    m_Localized: "K\xF6t\xE9l"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2873099259904
+    m_Localized: Udvar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2873715822592
+    m_Localized: "Bel\xE9p\xE9s a rakt\xE1rba"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2940539473920
+    m_Localized: "Rakt\xE1r elhagy\xE1sa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2941793570816
+    m_Localized: "L\xE9tra megk\xF6zel\xEDt\xE9se"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54138001123815424
+    m_Localized: "Felszerel\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2943110582272
+    m_Localized: "Emel\u0151 megk\xF6zel\xEDt\xE9se"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2996252413952
+    m_Localized: "Inverter megk\xF6zel\xEDt\xE9se"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2996852199424
+    m_Localized: "Asztal megk\xF6zel\xEDt\xE9se"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2997447790592
+    m_Localized: "Zuhan\xE1sg\xE1tl\xF3 l\xE9tra megk\xF6zel\xEDt\xE9se"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2998118879232
+    m_Localized: "H\xE1tt\xE1maszos l\xE9tra megk\xF6zel\xEDt\xE9se"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3040699453440
+    m_Localized: "Cs\xFAszka l\xE9tr\xE1hoz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3041391513600
+    m_Localized: "Szekr\xE9ny megk\xF6zel\xEDt\xE9se"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5717810450432
+    m_Localized: "Befejez\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3080289488896
+    m_Localized: "Munkahelyzet be\xE1ll\xEDt\xF3 k\xF6t\xE9l"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3080918634496
+    m_Localized: "Energiaelnyel\u0151 Y-k\xF6t\xE9l"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3129505452032
+    m_Localized: "2 pontos testheveder munka\xF6vvel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3130163957760
+    m_Localized: "K\xF6telek megk\xF6zel\xEDt\xE9se"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3130814074880
+    m_Localized: 2 pontos testheveder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3131506135040
+    m_Localized: "Energiaelnyel\u0151s szalag"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3193195958272
+    m_Localized: "Tet\u0151"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3193808326656
+    m_Localized: "Modul befejez\xE9se"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3194458443776
+    m_Localized: "V\xE9d\u0151keszty\u0171"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3244949475328
+    m_Localized: "Kritikus hib\xE1t v\xE9tett\xE9l!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3315313119232
+    m_Localized: "A v\xE9geredm\xE9nyed"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3329347260416
+    m_Localized: "Szintk\xFCl\xF6nbs\xE9gb\u0151l ad\xF3d\xF3 vesz\xE9lyek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3343930855424
+    m_Localized: "V\xE9ge"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 416257225494528
+    m_Localized: "Teljes\xEDtetted a modult."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 416582300831744
+    m_Localized: "K\xF6sz\xF6ntj\xFCk! \nA rakt\xE1r\xE9p\xFClet tetej\xE9n meghib\xE1sodott
+      a napelemek invertere. Az \xD6n feladata, hogy a t\u0171zv\xE9delmi f\u0151kapcsol\xF3val
+      fesz\xFClts\xE9gmentes\xEDtse a berendez\xE9st."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 416867635138560
+    m_Localized: "A tet\u0151re feljut\xE1s az \xE9p\xFClet oldal\xE1ra telep\xEDtett
+      h\xE1tt\xE1maszos l\xE9tr\xE1val, zuhan\xE1sg\xE1tl\xF3val ell\xE1tott l\xE9tr\xE1val,
+      vagy az odak\xE9sz\xEDtett oll\xF3s emel\u0151vel lehets\xE9ges."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 416975944650752
+    m_Localized: "A biztons\xE1gos tet\u0151re jut\xE1shoz, tet\u0151n val\xF3 k\xF6zleked\xE9shez
+      munkav\xE9delmi eszk\xF6z\xF6k sz\xFCks\xE9gesek. Minden eszk\xF6zt az \xE9p\xFClet
+      melletti rakt\xE1rban tal\xE1l."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 417102109315072
+    m_Localized: "A hibaelh\xE1r\xEDt\xE1st k\xF6vet\u0151en menjen a kiindul\xE1si
+      pont m\xF6g\xF6tti Modul befejez\xE9se pontra. Sikeres munkav\xE9gz\xE9st!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 417214587965440
+    m_Localized: "Teleport\xE1l\xE1sok"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 417446621057024
+    m_Localized: "Id\u0151"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 417560236363776
+    m_Localized: Hiba!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54110012700995584
+    m_Localized: "Energiaelnyel\u0151s Y-szalag"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54113491884552192
+    m_Localized: "Ipari v\xE9d\u0151sisak"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54133388568014848
+    m_Localized: "Emel\u0151 vez\xE9rl\xE9se"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54133790982123520
+    m_Localized: "Kisz\xE1ll\xE1s az emel\u0151b\u0151l"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54134622687440896
+    m_Localized: "Inverter jav\xEDt\xE1sa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60145158231273472
+    m_Localized: "Biztons\xE1gos feljut\xE1s, k\xF6zleked\xE9s a tet\u0151n \xE9s
+      lejut\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60145158281605120
+    m_Localized: "Legmegfelel\u0151bb zuhan\xE1sg\xE1tl\xF3 haszn\xE1lata a feljut\xE1s
+      m\xF3dja szerint"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60145158281605121
+    m_Localized: "Inverter fesz\xFClts\xE9gmentes\xEDt\xE9se"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60145158281605122
+    m_Localized: "Emel\u0151 megfelel\u0151 \xE1ll\xE1sban"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60145158281605123
+    m_Localized: "Zuhan\xE1s g\xE1tl\xF3 l\xE9tra megfelel\u0151 \xE1ll\xE1sban"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60145158281605124
+    m_Localized: "Sz\xFCks\xE9ges v\xE9d\u0151eszk\xF6z\xF6k felv\xE9tele a rakt\xE1rban"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60168898886205440
+    m_Localized: A stressz-szintjeid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60168917232091136
+    m_Localized: "A tet\u0151re feljut\xE1s az \xE9p\xFClet oldal\xE1ra telep\xEDtett
+      h\xE1tt\xE1maszos l\xE9tr\xE1val, zuhan\xE1sg\xE1tl\xF3val ell\xE1tott l\xE9tr\xE1val,
+      vagy az odak\xE9sz\xEDtett oll\xF3s emel\u0151vel lehets\xE9ges. A biztons\xE1gos
+      tet\u0151re jut\xE1shoz, tet\u0151n val\xF3 k\xF6zleked\xE9shez munkav\xE9delmi
+      eszk\xF6z\xF6k sz\xFCks\xE9gesek. Minden eszk\xF6zt az \xE9p\xFClet melletti
+      rakt\xE1rban tal\xE1l."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155942699008
+    m_Localized: "Kihagy\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155993030656
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155993030657
+    m_Localized: "\xDCdvz\xF6l\xFCnk a ProtFall-ban!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155993030658
+    m_Localized: "Miel\u0151tt kiv\xE1lasztan\xE1d a modult, kattints a \"Kezd\xE9s\"
+      gombra \xE9s tekintsd meg az \xFAtmutat\xF3t a k\xF6rnyezetben val\xF3 navig\xE1ci\xF3hoz.\nAz
+      \xFAtmutat\xF3 kihagy\xE1s\xE1hoz kattints a \"Kihagy\xE1s\" gombra. \nA szitu\xE1ci\xF3t,
+      szerepk\xF6rt, stresszdetekt\xE1l\xE1st a f\u0151men\xFCb\u0151l tudod kiv\xE1lasztani."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155993030659
+    m_Localized: "Folytat\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224960
+    m_Localized: "V\xE1laszd ki hogyan szeretn\xE9d haszn\xE1lni az alkalmaz\xE1st."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224961
+    m_Localized: "Csatlakoz\xE1s stressz-\xE9rz\xE9kel\u0151 eszk\xF6zh\xF6z"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224962
+    m_Localized: Hiba
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224963
+    m_Localized: Siker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224964
+    m_Localized: "Adja meg az IP c\xEDmet \xE9s csatlakozzon."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224965
+    m_Localized: "Ilyen IP alatt nem tal\xE1ltunk eszk\xF6zt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224966
+    m_Localized: "Eszk\xF6z csatlakozva."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224967
+    m_Localized: "\xDAtmutat\xF3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224968
+    m_Localized: "Nincs \xFAtmutat\xF3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224969
+    m_Localized: "Stresszdetekt\xE1l\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224970
+    m_Localized: "Nincs stressz detekt\xE1l\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224971
+    m_Localized: "Vegy\xE9l egy m\xE9ly leveg\u0151t, minden rendben lesz. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224972
+    m_Localized: "Csukd be a szemed egy pillanatra \xE9s lazulj el!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224973
+    m_Localized: "Egyszerre csak egy dologra koncentr\xE1lj. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224974
+    m_Localized: "J\xF3l haladsz, csak \xEDgy tov\xE1bb!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224975
+    m_Localized: "Ne feledd, ez egy biztons\xE1gos helyzet. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224976
+    m_Localized: "Eleven\xEDtsd fel a l\xE9p\xE9seket a fejedben."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224977
+    m_Localized: "\xC1llj meg egy pillanatra. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224978
+    m_Localized: "Nincs ok a siets\xE9gre. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224979
+    m_Localized: "Vegy\xE9l egy m\xE9ly leveg\u0151t, te ir\xE1ny\xEDtasz."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224980
+    m_Localized: "\xC1llj meg ha sz\xFCks\xE9ges, nyugodj meg \xE9s \xF6sszpontos\xEDts. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224981
+    m_Localized: "Szorongsz a magass\xE1g miatt? Ez teljesen norm\xE1lis, biztons\xE1gban
+      vagy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224982
+    m_Localized: "Maradj f\xF3kusz\xE1lt, minden id\u0151 a rendelkez\xE9sedre \xE1ll. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61472956746919936
+    m_Localized: "Eszk\xF6z csatlakoztat\xE1sa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61514977230548992
+    m_Localized: "Menj az inverterhez \xE9s kapcsold ki"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61514961346719744
+    m_Localized: "Att\xF3l f\xFCgg\u0151en hogy hogy szeretn\xE9l feljutni a tet\u0151re,
+      vedd fel a megfelel\u0151 k\xF6telet \xE9s a t\xF6bbi felszerel\xE9st"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61514940098375680
+    m_Localized: "Menj az \xF6l\xF6tz\u0151h\xF6z \xE9s vedd fel a sz\xFCks\xE9ges
+      felszerel\xE9seket"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61515437144371200
+    m_Localized: "Miut\xE1n kikapcsoltad az invertert, menj vissza azon az \xFAtvonalon,
+      ahonnan j\xF6tt\xE9l"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61516360998547456
+    m_Localized: "Az oll\xF3s emel\u0151 helyes haszn\xE1lat\xE1hoz sz\xFCks\xE9ged
+      lesz egy hevederre \xE9s valamelyik Y energiaelnyel\u0151s k\xF6t\xE9lre."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61516937841176576
+    m_Localized: "Ezen l\xE9tra helyes haszn\xE1lat\xE1hoz sz\xFCks\xE9ged lesz egy
+      hevederre."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61516969231347712
+    m_Localized: "Ezen l\xE9tre helyes haszn\xE1lat\xE1hoz sz\xFCks\xE9ged lesz egy
+      kiskocsira, egy hevederre, egy sima k\xF6t\xE9lle vagy az egyik Y energiaelnyel\u0151s
+      k\xF6t\xE9lre."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

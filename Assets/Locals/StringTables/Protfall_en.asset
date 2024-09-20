@@ -1,0 +1,457 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Protfall_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: dd3dd6715135ac341904aecbf872027e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 108276977664
+    m_Localized: Ladder access
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3130814074880
+    m_Localized: 2-point body harness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3129505452032
+    m_Localized: 2-point body harness with work belt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2654685073408
+    m_Localized: You can see the list of items in your inventory on the wall diagram.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2595943845888
+    m_Localized: Select the equipment you need from the shelves and tables. On the
+      wall diagram, you can see a list of the items you have in your inventory.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2996852199424
+    m_Localized: Approach table
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2873715822592
+    m_Localized: Enter warehouse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2752378802176
+    m_Localized: Safety footwear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3040699453440
+    m_Localized: Slide ladder access
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2517355171840
+    m_Localized: Previous
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54138001123815424
+    m_Localized: Inventory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2943110582272
+    m_Localized: Access the lift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2751716102144
+    m_Localized: Energy absorbing rope
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3131506135040
+    m_Localized: Energy absorbing band
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2446811172864
+    m_Localized: Ladder with backrest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2998118879232
+    m_Localized: Access to ladder with backrest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2593829916672
+    m_Localized: To change position, push the left controller arm forward, point
+      at a teleport and release.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2594555531264
+    m_Localized: Interaction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2996252413952
+    m_Localized: Approach inverter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2871144714240
+    m_Localized: Industrial safety helmet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2872398811136
+    m_Localized: Rope
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3130163957760
+    m_Localized: Approach ropes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2516684083200
+    m_Localized: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3244949475328
+    m_Localized: You have made a critical mistake!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2750449422336
+    m_Localized: Fall detected!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2941793570816
+    m_Localized: Accessing the ladder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 986346131456
+    m_Localized: Mechanical safety goggles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2749803499520
+    m_Localized: Finish module
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3193808326656
+    m_Localized: Finish module
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3080289488896
+    m_Localized: ' Work positioning ropeline'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2655419076608
+    m_Localized: You are not using the protective equipment correctly!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2443606724608
+    m_Localized: Scissor lift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2940539473920
+    m_Localized: Leave the warehouse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3041391513600
+    m_Localized: Access cabinet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3329347260416
+    m_Localized: Dangers due to level difference
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2654043344896
+    m_Localized: To stow an item, hold the controller over the icon next to the item
+      and press the side button.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2593196576768
+    m_Localized: Teleport
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3193195958272
+    m_Localized: Roof
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2873099259904
+    m_Localized: Yard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3194458443776
+    m_Localized: Protective gloves
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3343930855424
+    m_Localized: End
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3315313119232
+    m_Localized: Your final result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3080918634496
+    m_Localized: Energy absorbing Y-rope
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2450070147072
+    m_Localized: Fall arrest ladder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2997447790592
+    m_Localized: Access to the fall arrest ladder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5717810450432
+    m_Localized: Finish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 416257225494528
+    m_Localized: You have completed the module.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 416582300831744
+    m_Localized: "Welcome! \nThe inverter of the solar panels on the roof of the
+      warehouse has failed. Your task is to shut down the inverter using the fire
+      safety switch."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 416867635138560
+    m_Localized: Access to the roof is possible using the ladder with backrest or
+      the ladder with a fall prevention device or the scissor lift positioned next
+      to the building.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 416975944650752
+    m_Localized: Occupational safety equipment is required for safe access to the
+      roof and for moving around on the roof. You can find all the tools in the warehouse
+      next to the building.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 417102109315072
+    m_Localized: After successfully resolving the error, go to the 'Module Completion'
+      point behind the starting point.Good luck!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 417214587965440
+    m_Localized: Teleportations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 417446621057024
+    m_Localized: Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 417560236363776
+    m_Localized: Mistake!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54110012700995584
+    m_Localized: Energy absorbing y-band
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54113491884552192
+    m_Localized: Industrial safety helmet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54133388568014848
+    m_Localized: Scissor lift control
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54133790982123520
+    m_Localized: Getting off from the scissor lift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54134622687440896
+    m_Localized: Repair inverter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60145158231273472
+    m_Localized: Safe ascent, movement on the roof, and descent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60145158281605120
+    m_Localized: Used the most appropriate fall protection according to the method
+      of ascent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60145158281605121
+    m_Localized: De-energizing the inverter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60145158281605122
+    m_Localized: Hoist in the correct position
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60145158281605123
+    m_Localized: Fall protection ladder in the correct position
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60145158281605124
+    m_Localized: Putting on the necessary protective equipment in the warehouse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60168898886205440
+    m_Localized: Your stress levels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60168917232091136
+    m_Localized: Access to the roof is possible using the ladder with backrest or
+      the ladder with a fall prevention device or the scissor lift positioned next
+      to the building. Occupational safety equipment is required for safe access
+      to the roof and for moving around on the roof. You can find all the tools in
+      the warehouse next to the building.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155942699008
+    m_Localized: Skip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155993030656
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155993030657
+    m_Localized: Welcome to ProtFall!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155993030658
+    m_Localized: "Before selecting the Module, click on the Start button to watch
+      the tutorials on how to move in your environment. \nTo skip the tutorials,
+      click on the Skip button.\nYou can select the scenario, role, and stress detection
+      from the main UI."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155993030659
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224960
+    m_Localized: Choose how you want to use the application.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224961
+    m_Localized: Connect to stress detection device
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224962
+    m_Localized: Error
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224963
+    m_Localized: Success
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224964
+    m_Localized: Enter IP and connect to device
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224965
+    m_Localized: No device found with this IP.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224966
+    m_Localized: Device found.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224967
+    m_Localized: Get guide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224968
+    m_Localized: No guide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224969
+    m_Localized: Stress detection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224970
+    m_Localized: No stress detection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224971
+    m_Localized: Take a deep breath; everything will be okay.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224972
+    m_Localized: Close your eyes for the moment and relax!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224973
+    m_Localized: 'Focus on one thing at a time. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224974
+    m_Localized: "You\u2019re doing great; keep going!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224975
+    m_Localized: 'Remember, this is a safe situation. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224976
+    m_Localized: Recall the steps in your head.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224977
+    m_Localized: 'Take a moment to pause. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224978
+    m_Localized: No need to hurry.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224979
+    m_Localized: Take a deep breath, you're in control.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224980
+    m_Localized: Pause if needed. Ground yourself and stay calm.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224981
+    m_Localized: Feeling height anxiety? It's normal. You're safe.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60191155997224982
+    m_Localized: "Stay focused, you\u2019ve got all the time you need. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61472956746919936
+    m_Localized: Connect device
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61514977230548992
+    m_Localized: Go to the inverter and turn it off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61514961346719744
+    m_Localized: Based on how you want to get on the roof, pick the correct ropes
+      and other equipment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61514940098375680
+    m_Localized: Go to the storage unity and pick up the neccessary equipment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61515437144371200
+    m_Localized: After turning off the inverter, go back down on the way you came
+      up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61516360998547456
+    m_Localized: To use the scissor lift correctly, you will need a harness and one
+      of the Y energy absorbings ropes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61516937841176576
+    m_Localized: To use this ladder correctly, you will need a harness.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61516969231347712
+    m_Localized: To use this ladder correctly, you will need a harness, a normal
+      rope or an Y energy absorbing rope.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
